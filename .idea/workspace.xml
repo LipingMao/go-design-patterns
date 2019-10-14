@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f9a77f1-1cae-4beb-9ad1-2086596138f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/creational/protorype/prototype.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational/protorype/prototype_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creational/absFactory/moto.go" beforeDir="false" afterPath="$PROJECT_DIR$/creational/absFactory/moto.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Test.go test absFactory">
+  <component name="RunManager" selected="Go Test.go test protorype">
     <configuration name="go test absFactory" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="go-design-patterns" />
       <working_directory value="$PROJECT_DIR$/creational/absFactory" />
@@ -90,21 +93,22 @@
       <directory value="$PROJECT_DIR$/creational/factory" />
       <method v="2" />
     </configuration>
-    <configuration name="go test singleton" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="go test protorype" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="go-design-patterns" />
-      <working_directory value="$PROJECT_DIR$/creational/singleton" />
+      <working_directory value="$PROJECT_DIR$/creational/protorype" />
       <framework value="gotest" />
       <kind value="DIRECTORY" />
-      <directory value="$PROJECT_DIR$/creational/singleton" />
+      <directory value="$PROJECT_DIR$/creational/protorype" />
+      <filePath value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.go test absFactory" />
+        <item itemvalue="Go Test.go test protorype" />
         <item itemvalue="Go Test.go test factory" />
+        <item itemvalue="Go Test.go test absFactory" />
         <item itemvalue="Go Test.go test creational" />
         <item itemvalue="Go Test.go test builder" />
-        <item itemvalue="Go Test.go test singleton" />
       </list>
     </recent_temporary>
   </component>
