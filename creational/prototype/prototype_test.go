@@ -1,4 +1,4 @@
-package protorype
+package prototype
 
 import (
 	"fmt"
