@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f9a77f1-1cae-4beb-9ad1-2086596138f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/structural/adapter/adapter.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/structural/adapter/adapter_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structural/adapter/adapter_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/structural/adapter/adapter_test.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +129,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creational:&#10;* builder&#10;* singleton" />
     <MESSAGE value="Creational: Factory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creational: Factory" />
+    <MESSAGE value="structural: adapter" />
+    <option name="LAST_COMMIT_MESSAGE" value="structural: adapter" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/go_design_patterns$go_test_singleton.out" NAME="go test singleton Coverage Results" MODIFIED="1570626411333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
